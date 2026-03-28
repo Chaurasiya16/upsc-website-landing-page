@@ -17,3 +17,7 @@ document.querySelectorAll("a").forEach(link => {
     }
   });
 });
+
+function submitForm() {
+  alert("Form Submitted Successfully!");
+}
